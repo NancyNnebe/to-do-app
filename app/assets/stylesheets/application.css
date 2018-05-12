@@ -14,8 +14,8 @@
  *= require_self
  */
 body{
+    background-color: #f442e8;
  color: #424242;
- background-color: #ECEFF1;
  font-family: sans-serif;
 }
 
@@ -97,4 +97,3 @@ input[type="text"], input[type="number"]{
 #add-new-todo-button:active{
   box-shadow: 1px 1px 1px #90A4AE;
 }
-
